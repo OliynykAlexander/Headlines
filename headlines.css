@@ -1,0 +1,28 @@
+h1{
+    font-weight: normal;
+    text-align: center;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+}
+h2{
+    font-weight: normal;
+    text-align: right;
+}
+h3{
+    font-family: sans-serif;
+}
+p{
+    text-align: justify;
+    text-indent: 20px;
+    line-height: 32px;
+    word-spacing: 5px;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+a:active{
+    color: red;
+}
